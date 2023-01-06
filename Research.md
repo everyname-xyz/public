@@ -11,12 +11,12 @@ Onchain naming services can be categorized by Type and Data Structure.
 * L1 native smart contract registry
 * L2 native smart contract registry
 
-## TLD registrars
+## TLD Registrars
 
 | Name Service | URL | Data Structure | Notes |
 | --- | --- | --- | --- |
 
-## SLD registrars
+## SLD Registrars
 
 | Name Service | URL | Data Structure | Notes |
 | --- | --- | --- | --- |
