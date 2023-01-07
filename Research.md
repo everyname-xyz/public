@@ -1,6 +1,6 @@
 ## Overview
 
-Onchain naming services can be categorized by Type and Data Structure.
+Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 1. **Name Service Types**
 * Top Level Domain (TLD) Registrars (i.e. name registered is after the dot)
@@ -15,7 +15,7 @@ Onchain naming services can be categorized by Type and Data Structure.
 
 ## TLD Registrars
 
-| Name Service | URL | Data Structure | Example Suffix(s) | Notes |
+| Name Service | Website | Data Structure | Example Suffix(s) | Notes |
 | --- | --- | --- | --- | --- |
 | Decentraweb |
 | EDNS Domains |
@@ -26,7 +26,7 @@ Onchain naming services can be categorized by Type and Data Structure.
 
 ## SLD Registrars
 
-| Name Service | URL | Data Structure | Suffix | Notes |
+| Name Service | Website | Data Structure | Suffix | Notes |
 | --- | --- | --- | --- | --- |
 | Algorand Name Service |
 | Any Names Service | .any
@@ -83,14 +83,14 @@ Onchain naming services can be categorized by Type and Data Structure.
 | XDC Domains | .xdc
 
 ## Subdomain Registrars
-| Name Service | URL | Data Structure | SLD + TLD | Notes |
+| Name Service | Website | Data Structure | SLD + TLD | Notes |
 | --- | --- | --- | --- | --- |
 | Coinbase ID | cb.id
 | Earth Subdomains | earth.eth
 | Nameth | multiple .eth subdomains
 
 ## Username Registrars
-| Name Service | URL | Data Structure | Notes |
+| Name Service | Website | Data Structure | Notes |
 | --- | --- | --- | --- |
 | Dash Usernames
 | Lightening Address
