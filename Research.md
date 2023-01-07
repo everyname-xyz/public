@@ -16,11 +16,12 @@ Onchain naming services can be categorized by Type and Data Structure.
 
 | Name Service | URL | Data Structure | Example Suffix(s) | Notes |
 | --- | --- | --- | --- | --- |
+| Decentraweb |
+| EDNS Domains |
+| Freename |
+| Handshake |
 | Impervious Domains |
 | Namebase | 
-| Freename |
-| Decentraweb |
-| Handshake |
 
 ## SLD Registrars
 
@@ -33,36 +34,49 @@ Onchain naming services can be categorized by Type and Data Structure.
 | Astr Domains |
 | Avvy Domains |
 | ADA Name Service | 
+| Bit Name Service | .bit (cross chain)
 | Bonfida Name Service |
 | Celo Name Service |
 | Concordium Domain |
 | Cronos Name Service |
 | DDNS | .dweb
+| Ether Name Service | .ether
 | Ethereum Name Service |
 | Ethereum Classic Name Service |
 | Evmos Name Service |
+| Ethw Name Service | .ethw
 | Fantom Domains |
 | Flowns |
+| Hoo Domains | .hoo
 | IC Naming | 
 | Interchain Name Service |
 | Klaytn Name Service |
 | Luna Name Service |
 | NamesDAO |
 | Near Names |
+| Nouns Name Service | .⌐◨-◨
 | Optimism Name Service |
 | Polygon Name Service |
+| Quik Domains | nultiple TLDs
 | RIF Name Service | .rsk
-| SBG Domains |
+| Songbird Domains | .sgb
 | Space ID | .bnb
 | Stacks |
 | Stargaze Names |
 | Starkware | 
 | SUI Names |
 | Tezos Domains |
+| Unstoppable Domains + Cloudname | Multiple TLDs
+| W3 Domains | .web3
+| XDC Domains | .xdc
 
 ## Subdomain Registrar
 | Name Service | URL | Data Structure | SLD + TLD | Notes |
+| --- | --- | --- | --- | --- |
 | Coinbase ID | cb.id
+| Earth Subdomains | earth.eth
+| Nameth | multiple .eth subdomains
+
 
 
 
