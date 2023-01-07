@@ -1,4 +1,4 @@
-## Everyname Public Repo
+## Everyname
 
 The purpose of this repository is to collaborate and share open source knowledge to advance the onchain naming ecosystem.
 
