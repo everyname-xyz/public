@@ -1,5 +1,5 @@
-## Everyname Inc
+## Everyname Public Repo
 
-**Everyname** is a one stop shop for onchain names. Search, register, and securely store onchain names from every leading web3 naming service in one place.
+The purpose of this repository is to collaborate and share open source knowledge to advance the onchain naming ecosystem.
 
 * To review the latest list of web3 name services (live or announced), visit the [Research Page](Research.md).
