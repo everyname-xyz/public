@@ -8,10 +8,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 * Subdomain (SD) Registrars (i.e. name registered is before a dot placed before the SLD)
 * Username (UN) Registrars (i.e. name registered without a dot and suffix)
 
-2. **Name Service Data Structure**
+2. **Name Service Data Structures**
 * DNS root zone registry
 * L1 native smart contract registry
 * L2 native smart contract registry
+
+*The following list is categorized in alphabetical order*
 
 ## TLD Registrars
 
