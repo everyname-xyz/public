@@ -1,5 +1,5 @@
 ## Everyname
 
-The purpose of this repository is to collaborate and share open source knowledge to advance the onchain naming ecosystem.
+The purpose of this repository is to collaborate and share open source knowledge that advances the onchain naming ecosystem.
 
-* To review the latest list of web3 name services (live or announced), visit the [Research Page](Research.md).
+* Visit the [Research Page](Research.md) to review, and contribute to, the latest research and findings on available onchain naming services.
