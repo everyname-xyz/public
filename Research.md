@@ -74,7 +74,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Space ID | .bnb
 | Stacks |
 | Stargaze Names | .stars
-| Starkware | 
+| Starknet ID (Starkware) | .stark
 | SUI Names |
 | Talent Protocol | .tal
 | Tezos Domains |
