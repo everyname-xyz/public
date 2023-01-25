@@ -95,9 +95,11 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Name Service | Website | Data Structure | Notes |
 | --- | --- | --- | --- |
 | Dash Usernames
+| FIO Protocol
 | Lightening Address
 | Nano Usernames
 | W3DNA
+
 
 
 
