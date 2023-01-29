@@ -30,6 +30,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 | Name Service | Website | Data Structure | Suffix | Notes |
 | --- | --- | --- | --- | --- |
+| Aleph Zero Domains (AZERO) |
 | Algorand Name Service |
 | Any Names Service | .any
 | Aptos Names |
