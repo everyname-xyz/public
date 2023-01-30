@@ -49,12 +49,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Ether Name Service | .ether | Ethereum (PoS, L1) | https://ether.domains/
 | Ethereum Name Service | .eth | Ethereum (PoS, L1) | https://ens.domains/
 | Ethereum Classic Name Service | .etc | Ethereum Classic (PoW, L1) | https://hens.domains/
-| Evmos Name Service | .evmos | | https://evmos.domains/ | Cosmos (PoS, L1) | https://evmos.domains/
+| Evmos Name Service | .evmos | Cosmos (PoS, L1) | https://evmos.domains/
 | Ethw Name Service | .ethw | EthereumPoW (PoW, L1) | https://ethwns.com/
-| Fantom Domains |
+| Fantom Domains | .ftm | Fantom (DPoS, L1) | https://www.fantomdomains.io/
 | Farcaster Protocol | .fn (social)
-| Flowns |
-| HNS Domains (Harmony) | .one
+| Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
+| HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
 | HashKey | .key
 | Hoo Domains | .hoo
 | IC Naming | 
