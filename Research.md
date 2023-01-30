@@ -67,7 +67,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Optimism Name Service | .op
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
-| Quik Domains | 
+| Quik Domains | Multiple TLDs | Ethereum (PoS, L1) | https://quik.com/
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb | Flare (PoS, L1) | https://songbird.domains/#/
 | Space ID | .bnb | BNB Chain (PoS, L1) | https://space.id/
@@ -78,9 +78,9 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | SUI Names | .sui | Sui (PoS, L1) | https://sui-names.com/
 | Talent Protocol | .tal
 | Tezos Domains | .tez | Tezos (PoS, L1) | https://tezos.domains/en
-| Telegram Names | .ton (social)
+| Telegram Names | .t.me (social) | Open Network (PoS, L1) | https://fragment.com/
 | Tron Domains | .trz | Tron (DPoS, L1) | https://www.trx.domains/
-| Unstoppable Domains + Cloudname | Multiple TLDs
+| Unstoppable Domains + Cloudname | Multiple TLDs | Offchain + Polygon (PoS, L2) | https://unstoppabledomains.com/
 | W3 Name Service | .web3 | Ethereum (PoS, L1) | https://domains.w3.one/
 | XDC Domains | .xdc | XDC Network (XDPoS, L1) | https://xdcdomains.xyz/
 | xNames | .x | Elrond (PoS, L1) | https://xnames.org/
