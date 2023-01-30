@@ -56,6 +56,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Fantom Domains |
 | Farcaster Protocol | .fn (social)
 | Flowns |
+| HNS Domains (Harmony) | .one
 | HashKey | .key
 | Hoo Domains | .hoo
 | IC Naming | 
