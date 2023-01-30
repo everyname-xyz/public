@@ -55,10 +55,9 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Farcaster Protocol | .fn (social)
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
-| HashKey | .key
-| Hoo Domains | .hoo
-| IC Naming | 
-| Interchain Name Service |
+| HashKey | .key | PlatON (PPoS, N/A) | https://www.hashkey.id/
+| IC Naming | .ic | Internet Computer (PoUW, L1) | https://www.icnaming.com/
+| Interchain Name Service | .cosmos .osmo .juno .umee | Cosmos IBC (PoS, L1) | https://www.icns.xyz/
 | JazDID | multiple TLDs i.e. .ape .bab
 | Klaytn Name Service |
 | Lens Protocol | .lens (social)
@@ -83,6 +82,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Unstoppable Domains + Cloudname | Multiple TLDs
 | W3 Domains | .web3
 | XDC Domains | .xdc
+| xNames | .x | Elrond (PoS, L1) | https://xnames.org/
 
 ## Subdomain Registrars
 | Name Service | SLD + TLD | Data Structure | Website | Notes |
