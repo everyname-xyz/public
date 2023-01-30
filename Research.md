@@ -38,14 +38,13 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Arweave Name Service | .ar | Arweave (PoA, L1) | https://docs.decent.land/readme
 | Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
 | Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
-| Bit Name Service | .bit (cross chain)
-| Bittorrent Domains | .btt
-| Bonfida Name Service |
-| Cardano Name Service | .ada
-| Celo Name Service |
-| Concordium Domain |
-| Cronos Name Service |
-| DDNS | .dweb
+| Bit Name Service | .bit | Ethereum (PoS, L1) Tron (PoS, L1) BNB Chain (PoS, L1) Polygon (PoS, L2) | https://www.did.id/
+| Bittorrent Domains | .btt | Tron (PoS, L1) | https://bittorrent.domains/
+| Bonfida Name Service | .sol | Solana (PoS-PoH, L1 | https://naming.bonfida.org/
+| Celo Name Service | .celo | Celo (PoS, L1) | https://celonameservice.netlify.app/
+| Concordium Name Service | .ccd | Concordium (PoS, L1) | https://ccd.domains/
+| Cronos Name Service | .cro | Cosmos IBC (PoS, L1) | https://www.cronos.domains/
+| DDNS | .dweb | Ethereum (PoS, L1) | https://ddns.foundation/
 | DeSo Protocol | .deso (social)
 | Ether Name Service | .ether
 | Ethereum Name Service |
