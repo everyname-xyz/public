@@ -58,17 +58,17 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | HashKey | .key | PlatON (PPoS, N/A) | https://www.hashkey.id/
 | IC Naming | .ic | Internet Computer (PoUW, L1) | https://www.icnaming.com/
 | Interchain Name Service | .cosmos .osmo .juno .umee | Cosmos IBC (PoS, L1) | https://www.icns.xyz/
-| JazDID | .bab | BNB Chain (PoS L1) https://www.jazdid.com/
-| Klaytn Name Service |
+| JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
+| Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | Lens Protocol | .lens (social)
-| Luna Name Service |
-| NamesDAO |
-| Near Names |
-| Nouns Name Service | .⌐◨-◨
-| Optimism Name Service |
-| Polygon Name Service |
-| Quik Domains | nultiple TLDs
-| RIF Name Service | .rsk
+| Luna Name Service | .lunc .luna | Terra Classic (PoS, L1) Terra 2.0 (PoS, L1) | https://www.lns.money/
+| NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
+| Near Names | .near | Near (PoS, L1) | https://nearnames.com/
+| Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
+| Optimism Name Service | .op
+| Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
+| Quik Domains | 
+| RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb
 | Space ID | .bnb
 | Stacks |
