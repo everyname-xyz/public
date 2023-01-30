@@ -70,9 +70,10 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Quik Domains | 
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb
-| Space ID | .bnb
-| Stacks |
-| Stargaze Names | .stars
+| Space ID | .bnb | BNB Chain (PoS, L1) | https://space.id/
+| Stacks BNS | .stx | Stacks (Bitcoin, L2) | https://stx.name/
+| Stacks BTC.US | .btc | Stacks (Bitcoin, L2) | https://btc.us/
+| Stargaze Names | .stars .cosmos .osmo .juno | Cosmos IBC (PoS, L1) | https://www.stargaze.zone/names
 | Starknet ID (Starkware) | .stark
 | SUI Names |
 | Talent Protocol | .tal
