@@ -45,12 +45,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Concordium Name Service | .ccd | Concordium (PoS, L1) | https://ccd.domains/
 | Cronos Name Service | .cro | Cosmos IBC (PoS, L1) | https://www.cronos.domains/
 | DDNS | .dweb | Ethereum (PoS, L1) | https://ddns.foundation/
-| DeSo Protocol | .deso (social)
-| Ether Name Service | .ether
-| Ethereum Name Service |
-| Ethereum Classic Name Service |
-| Evmos Name Service |
-| Ethw Name Service | .ethw
+| DeSo Protocol | .deso (social) | DeSo (PoS, L1) | https://signup.deso.com/
+| Ether Name Service | .ether | Ethereum (PoS, L1) | https://ether.domains/
+| Ethereum Name Service | .eth | Ethereum (PoS, L1) | https://ens.domains/
+| Ethereum Classic Name Service | .etc | Ethereum Classic (PoW, L1) | https://hens.domains/
+| Evmos Name Service | .evmos | | https://evmos.domains/ | Cosmos (PoS, L1) | https://evmos.domains/
+| Ethw Name Service | .ethw | EthereumPoW (PoW, L1) | https://ethwns.com/
 | Fantom Domains |
 | Farcaster Protocol | .fn (social)
 | Flowns |
