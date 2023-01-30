@@ -17,7 +17,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## TLD Registrars
 
-| Name Service | Website | Data Structure | Example Suffix(s) | Notes |
+| Name Service | Example Suffix(s) | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
 | Decentraweb |
 | EDNS Domains |
@@ -28,17 +28,16 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## SLD Registrars
 
-| Name Service | Website | Data Structure | Suffix | Notes |
+| Name Service | Suffix | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
-| Aleph Zero Domains (AZERO) |
-| Algorand Name Service |
-| Any Names Service | .any
-| Aptos Names |
-| Arbitrum Name Service |
-| Arweave Name Service | .ar
-| Astr Domains | .astr
-| Avvy Domains |
-| ADA Name Service | 
+| AZERO Domains | .azero | Aleph Zero (PoS, L1) | https://azero.domains/
+| Algorand Name Service | .algo | Algorand (PPoS, L1) | https://algonameservice.com/
+| Anyside Name Service | .any | Ethereum (PoS, L1) Solana (PoS-PoH, L1) Polygon (PoS, L2) | https://anyside.com/
+| Aptos Names | .apt | Aptos (PoS-BFT, L1) | https://www.aptosnames.com/
+| Arb ID | .arb | Arbitrum (Rollup, L2). | https://arb.id/
+| Arweave Name Service | .ar | Arweave (PoA, L1) | https://docs.decent.land/readme
+| Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
+| Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
 | Bit Name Service | .bit (cross chain)
 | Bittorrent Domains | .btt
 | Bonfida Name Service |
@@ -87,15 +86,16 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | XDC Domains | .xdc
 
 ## Subdomain Registrars
-| Name Service | Website | Data Structure | SLD + TLD | Notes |
+| Name Service | SLD + TLD | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
 | Coinbase ID | cb.id
 | Earth Subdomains | earth.eth
 | Nameth | multiple .eth subdomains
 
 ## Username Registrars
-| Name Service | Website | Data Structure | Notes |
+| Name Service | Data Structure | Website | Notes |
 | --- | --- | --- | --- |
+| ADA Handle | Cardano | https://adahandle.com/
 | Dash Usernames
 | FIO Protocol
 | Lightening Address
