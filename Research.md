@@ -19,12 +19,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 | Name Service | Example Suffix(s) | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
-| Decentraweb |
-| EDNS Domains |
-| Freename |
-| Handshake |
-| Impervious Domains |
-| Namebase | 
+| Decentraweb | .funk .unlock .xapp | Ethereum (PoS, L1) | https://decentraweb.org/
+| EDNS Domains | .sandbox .404 .music | Polygon (PoS, L2) | https://www.edns.domains/
+| Freename | .webgate .freeid .thewallet | https://freename.io/
+| Handshake | | Handshake | https://handshake.org/
+| Impervious Domains | .contract .www .hello | Handshake | https://impervious.domains/
+| Namebase | | Handshake | https://www.namebase.io/
 
 ## SLD Registrars
 
