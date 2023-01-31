@@ -37,6 +37,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Arb ID | .arb | Arbitrum (Rollup, L2). | https://arb.id/
 | Arweave Name Service | .ar | Arweave (PoA, L1) | https://docs.decent.land/readme
 | Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
+| Aurora Name Service | .aurora | Near (PoS 2.0, L2) | https://auroradomains.dev/
 | Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
 | Bit Name Service | .bit | Ethereum (PoS, L1) Tron (PoS, L1) BNB Chain (PoS, L1) Polygon (PoS, L2) | https://www.did.id/
 | Bittorrent Domains | .btt | Tron (PoS, L1) | https://bittorrent.domains/
@@ -75,6 +76,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Stacks BTC.US | .btc | Stacks (Bitcoin, L2) | https://btc.us/
 | Stargaze Names | .stars .cosmos .osmo .juno | Cosmos IBC (PoS, L1) | https://www.stargaze.zone/names
 | Starknet ID | .stark | StarkNet (ZK-Rollup, L2) | https://app.starknet.id/
+| Subsocial/Dotsama Domains | .sub | Polkadot Parachain (NPoS, L1) | https://polkaverse.com/dd
 | SUI Names | .sui | Sui (PoS, L1) | https://sui-names.com/
 | Talent Protocol | .tal
 | Tezos Domains | .tez | Tezos (PoS, L1) | https://tezos.domains/en
