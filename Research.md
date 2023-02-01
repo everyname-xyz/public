@@ -9,7 +9,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 * Username (UN) Registrars (i.e. name registered without a dot and suffix)
 
 2. **Name Service Data Structures**
-* DNS root zone registry
+* DNS root zone registry (i.e. Handshake)
 * L1 native smart contract registry
 * L2 native smart contract registry
 
