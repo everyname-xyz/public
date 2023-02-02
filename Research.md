@@ -60,6 +60,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | IC Naming | .ic | Internet Computer (PoUW, L1) | https://www.icnaming.com/
 | Interchain Name Service | .cosmos .osmo .juno .umee | Cosmos IBC (PoS, L1) | https://www.icns.xyz/
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
+| Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | Lens Protocol | .lens (social)
 | Luna Name Service | .lunc .luna | Terra Classic (PoS, L1) Terra 2.0 (PoS, L1) | https://www.lns.money/
