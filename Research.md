@@ -17,13 +17,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## TLD Registrars
 
-| Name Service | Data Structure | Website | Notes |
-| --- | --- | --- | --- |
-| Decentraweb | Ethereum (PoS, L1) | https://decentraweb.org/
-| Freename | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
-| Handshake | Handshake | https://handshake.org/
-| Namebase | Handshake | https://www.namebase.io/
-| Pool Infinity Domains | Polygon (PoS, L2) | https://www.pool.com/
+| Name Service | Suffix | Data Structure | Website | Notes |
+| --- | --- | --- | --- | --- |
+| Decentraweb | | Ethereum (PoS, L1) | https://decentraweb.org/
+| Freename | | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
+| Namebase | | Handshake | https://www.namebase.io/
+| Pool Infinity Domains | | Polygon (PoS, L2) | https://www.pool.com/
 
 ## SLD Registrars
 
