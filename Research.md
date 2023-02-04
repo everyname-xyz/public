@@ -17,14 +17,13 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## TLD Registrars
 
-| Name Service | Example Suffix(s) | Data Structure | Website | Notes |
+| Name Service | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
-| Decentraweb | .funk .unlock .xapp | Ethereum (PoS, L1) | https://decentraweb.org/
-| EDNS Domains | .sandbox .404 .music | Polygon (PoS, L2) | https://www.edns.domains/
-| Freename | .webgate .freeid .thewallet |  | https://freename.io/
-| Handshake | | Handshake | https://handshake.org/
-| Impervious Domains | .contract .www .hello | Handshake | https://impervious.domains/
-| Namebase | | Handshake | https://www.namebase.io/
+| Decentraweb | Ethereum (PoS, L1) | https://decentraweb.org/
+| Freename | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
+| Handshake | Handshake | https://handshake.org/
+| Namebase | Handshake | https://www.namebase.io/
+| Pool Infinity Domains | Polygon (PoS, L2) | https://www.pool.com/
 
 ## SLD Registrars
 
@@ -45,8 +44,10 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Celo Name Service | .celo | Celo (PoS, L1) | https://celonameservice.netlify.app/
 | Concordium Name Service | .ccd | Concordium (PoS, L1) | https://ccd.domains/
 | Cronos Name Service | .cro | Cosmos IBC (PoS, L1) | https://www.cronos.domains/
+| Domain Choice | .dark .apiens .dysto | Ethereum (PoS, L1) | https://www.domainchoice.io/
 | DDNS | .dweb | Ethereum (PoS, L1) | https://ddns.foundation/
 | DeSo Protocol | .deso (social) | DeSo (PoS, L1) | https://signup.deso.com/
+| EDNS Domains | .sandbox .404 .music | Polygon (PoS, L2) | https://www.edns.domains/
 | Ether Name Service | .ether | Ethereum (PoS, L1) | https://ether.domains/
 | Ethereum Name Service | .eth | Ethereum (PoS, L1) | https://ens.domains/
 | Ethereum Classic Name Service | .etc | Ethereum Classic (PoW, L1) | https://hens.domains/
@@ -58,11 +59,13 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
 | HashKey | .key | PlatON (PPoS, N/A) | https://www.hashkey.id/
 | IC Naming | .ic | Internet Computer (PoUW, L1) | https://www.icnaming.com/
+| Impervious Domains | .contract .www .hello | Handshake | https://impervious.domains/
 | Interchain Name Service | .cosmos .osmo .juno .umee | Cosmos IBC (PoS, L1) | https://www.icns.xyz/
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
 | Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | Lens Protocol | .lens (social)
+| Linagee Domains | .og | Ethereum (PoS, L1) | https://www.linagee.app/
 | Luna Name Service | .lunc .luna | Terra Classic (PoS, L1) Terra 2.0 (PoS, L1) | https://www.lns.money/
 | NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
