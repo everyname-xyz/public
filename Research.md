@@ -48,6 +48,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | DeSo Protocol | .deso (social) | DeSo (PoS, L1) | https://signup.deso.com/
 | EBPTO IP Domains | .ip | Ethereum (PoS, L1) | https://www.ebpto.com/
 | EDNS Domains | .sandbox .404 .music | Polygon (PoS, L2) | https://www.edns.domains/
+| EOS Name Service | .eos | EOSio (DPoS, L1) | https://eosnameservice.io/
 | Ether Name Service | .ether | Ethereum (PoS, L1) | https://ether.domains/
 | Ethereum Name Service | .eth | Ethereum (PoS, L1) | https://ens.domains/
 | Ethereum Classic Name Service | .etc | Ethereum Classic (PoW, L1) | https://hens.domains/
@@ -66,12 +67,16 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | Lens Protocol | .lens (social)
 | Linagee Domains | .og | Ethereum (PoS, L1) | https://www.linagee.app/
+| Terra Name Service | .ust | Terra Classic (PoS, L1) | https://www.tns.money/
 | Luna Name Service | .lunc .luna | Terra Classic (PoS, L1) Terra 2.0 (PoS, L1) | https://www.lns.money/
+| Moon Name Service | .moon .movr .glmr .boba | Moonbeam Polakdot Parachain (PoS, L1) Moonriver Kusama Parachain (PoS, L1) Boba (Rollup, L2) | https://moons.money/
 | NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
+| Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
 | Optimistic Domains | .op | Optimism (PoS-Rollup, L2) | https://optimistic.domains/ 
+| Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Pulse Domains | .pls | PulseChain (PoS, L1) | https://pulse.domains/
 | Quik Domains | Multiple TLDs | Ethereum (PoS, L1) | https://quik.com/
@@ -87,13 +92,15 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Subsocial/Dotsama Domains | .sub | Polkadot Parachain (NPoS, L1) | https://polkaverse.com/dd
 | SUI Names (Official) | .sui | Sui (PoS, L1) | https://sui-names.com/
 | SNS Domains | .sui | Sui (PoS, L1) | https://sns.domains/
-| Sui Name Service | .sui | Sui (PoS, L1) | https://suins.io/
+| SuiNS | .sui | Sui (PoS, L1) | https://suins.io/
 | Talent Protocol | .tal
 | Tezos Domains | .tez | Tezos (PoS, L1) | https://tezos.domains/en
 | Telegram Names | .t.me (social) | Open Network (PoS, L1) | https://fragment.com/
-| Tron Domains | .trz | Tron (DPoS, L1) | https://www.trx.domains/
+| Tron Domains | .trx | Tron (DPoS, L1) | https://www.trx.domains/
+| Tron Name Service | .trx | Tron (DPoS, L1) | https://tns.joyso.io/
 | Unstoppable Domains + Cloudname | Multiple TLDs | Offchain + Polygon (PoS, L2) | https://unstoppabledomains.com/
 | Velas Domains | .vlx | Velas Blockchain (PoS, L1) | https://velasdomains.com/
+| WAX Name Service | .wax | Wax Network (DPoS, L1) | https://waxnameservice.io/
 | W3 Name Service | .web3 | Ethereum (PoS, L1) | https://domains.w3.one/
 | XDC Domains | .xdc | XDC Network (XDPoS, L1) | https://xdcdomains.xyz/
 | xNames | .x | Elrond (PoS, L1) | https://xnames.org/
