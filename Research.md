@@ -119,7 +119,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## Username Registrars
 | Name Service | Format | Data Structure | Website | Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | ADA Handle | $name | Cardano (PoS, L1) | https://adahandle.com/
 | Dash Usernames | name | Dash Protocol (Bitcoin Fork) | https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity
 | FIO Domain | @name | FIO Protocol | https://dashboard.fioprotocol.io/
