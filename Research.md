@@ -56,6 +56,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Ethw Name Service | .ethw | EthereumPoW (PoW, L1) | https://ethwns.com/
 | Fantom Domains | .ftm | Fantom (DPoS, L1) | https://www.fantomdomains.io/
 | Farcaster Protocol | .fn (social)
+| Flare Domains | .flr | Flare (PoS, L1) | https://flr.domains
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
 | HashKey | .key | PlatON (PPoS, N/A) | https://www.hashkey.id/
@@ -65,6 +66,8 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
 | Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
+| KlimaDAO Name Service | .klima | Polygon (PoS, L2) | http://www.kns.earth/
+| Layer2DAO Names | .l2 | Optimism (PoS-Rollup, L2) | https://punk.domains/#/partners/l2dao
 | Lens Protocol | .lens (social)
 | Linagee Domains | .og | Ethereum (PoS, L1) | https://www.linagee.app/
 | Terra Name Service | .ust | Terra Classic (PoS, L1) | https://www.tns.money/
@@ -76,6 +79,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
 | Optimistic Domains | .op | Optimism (PoS-Rollup, L2) | https://optimistic.domains/ 
+| PoolTogether Names | .pool | Optimism (PoS-Rollup, L2) | https://names.pooly.me/
 | Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Pulse Domains | .pls | PulseChain (PoS, L1) | https://pulse.domains/
@@ -83,7 +87,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Shardeum Name Service | .shm | Shardeum (PoS-PoQ, L1) | https://dotshm.me/
 | Social Name System | .key | LinkKey Protocol (Polygon PoS, L2) | https://sns.chat/
-| Songbird Domains | .sgb | Flare (PoS, L1) | https://songbird.domains/#/
+| Songbird Domains | .sgb | Flare (PoS, L1-Canary) | https://songbird.domains/#/
 | Space ID | .bnb | BNB Chain (PoS, L1) | https://space.id/
 | Stacks BNS | .stx | Stacks (Bitcoin, L2) | https://stx.name/
 | Stacks BTC.US | .btc | Stacks (Bitcoin, L2) | https://btc.us/
