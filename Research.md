@@ -118,14 +118,14 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Nameth | multiple .eth subdomains
 
 ## Username Registrars
-| Name Service | Data Structure | Website | Notes |
+| Name Service | Format | Data Structure | Website | Notes |
 | --- | --- | --- | --- |
-| ADA Handle | Cardano | https://adahandle.com/
-| Dash Usernames
-| FIO Protocol
-| Lightening Address
-| Nano Usernames
-| W3DNA
+| ADA Handle | $name | Cardano (PoS, L1) | https://adahandle.com/
+| Dash Usernames | name | Dash Protocol (Bitcoin Fork) | https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity
+| FIO Domain | @name | FIO Protocol | https://dashboard.fioprotocol.io/
+| Lightning Address | name@vendor.suffix (i.e alice@bitrefill.me) | Lightning Network (Bitcoin, L2) | https://lightningaddress.com/
+| Nano Usernames | @name | Nano Network | https://nano.to/
+| W3DNA | name | BNB Chain (PoS, L1) Polygon (PoS, L2) Ethereum (PoS, L1) | https://w3dna.net/
 
 
 
