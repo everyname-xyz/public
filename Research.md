@@ -23,6 +23,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Freename | | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
 | Namebase | | Handshake | https://www.namebase.io/
 | Pool Infinity Domains | | Polygon (PoS, L2) | https://www.pool.com/
+| Punk Domains | Polygon (PoS, L2) Optimism (PoS-Rollup, L2) Flare (PoS, L1) | https://punk.domains
 
 ## SLD Registrars
 
