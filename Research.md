@@ -38,6 +38,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
 | Aurora Name Service | .aurora | Near (PoS 2.0, L2) | https://auroradomains.dev/
 | Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
+| Beb Domains | .beb | Ethereum (PoS, L1) | https://beb.domains/
 | Bit Name Service | .bit | Ethereum (PoS, L1) Tron (PoS, L1) BNB Chain (PoS, L1) Polygon (PoS, L2) | https://www.did.id/
 | Bittorrent Domains | .btt | Tron (PoS, L1) | https://bittorrent.domains/
 | Bonfida Name Service | .sol | Solana (PoS-PoH, L1 | https://naming.bonfida.org/
@@ -73,7 +74,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Linagee Domains | .og | Ethereum (PoS, L1) | https://www.linagee.app/
 | Terra Name Service | .ust | Terra Classic (PoS, L1) | https://www.tns.money/
 | Luna Name Service | .lunc .luna | Terra Classic (PoS, L1) Terra 2.0 (PoS, L1) | https://www.lns.money/
-| Moon Name Service | .moon .movr .glmr .boba | Moonbeam Polakdot Parachain (PoS, L1) Moonriver Kusama Parachain (PoS, L1) Boba (Rollup, L2) | https://moons.money/
+| Moon Name Service | .moon .movr .glmr .boba | Moonbeam Polkadot Parachain (PoS, L1) Moonriver Kusama Parachain (PoS, L1) Boba (Rollup, L2) | https://moons.money/
 | NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
@@ -81,7 +82,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
 | Optimistic Domains | .op | Optimism (PoS-Rollup, L2) | https://optimistic.domains/ 
 | PoolTogether Names | .pool | Optimism (PoS-Rollup, L2) | https://names.pooly.me/
-| Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
+| Polkadot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Pulse Domains | .pls | PulseChain (PoS, L1) | https://pulse.domains/
 | Quik Domains | Multiple TLDs | Ethereum (PoS, L1) | https://quik.com/
