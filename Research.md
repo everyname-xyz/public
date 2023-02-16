@@ -17,19 +17,19 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 
 ## TLD Registrars
 
-| Name Service | Suffix | Data Structure | Website | Notes |
-| --- | --- | --- | --- | --- |
-| Decentraweb | | Ethereum (PoS, L1) | https://decentraweb.org/
-| Freename | | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
-| Namebase | | Handshake | https://www.namebase.io/
-| Pool Infinity Domains | | Polygon (PoS, L2) | https://www.pool.com/
+| Name Service | Data Structure | Website | Notes |
+| --- | --- | --- | --- |
+| Decentraweb | Ethereum (PoS, L1) | https://decentraweb.org/
+| Freename | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
+| Namebase | Handshake | https://www.namebase.io/
+| Pool Infinity Domains | Polygon (PoS, L2) | https://www.pool.com/
 | Punk Domains | Polygon (PoS, L2) Optimism (PoS-Rollup, L2) Flare (PoS, L1) | https://punk.domains
 
 ## SLD Registrars
 
 | Name Service | Suffix | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
-| AZERO Domains | .azero | Aleph Zero (PoS, L1) | https://azero.domains/
+| ABC Domains | .abc | Solana (PoS, L1) | https://abc.onsol.io/
 | Algorand Name Service | .algo | Algorand (PPoS, L1) | https://algonameservice.com/
 | Anyside Name Service | .any | Ethereum (PoS, L1) Solana (PoS-PoH, L1) Polygon (PoS, L2) | https://anyside.com/
 | Aptos Names | .apt | Aptos (PoS-BFT, L1) | https://www.aptosnames.com/
@@ -38,6 +38,8 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
 | Aurora Name Service | .aurora | Near (PoS 2.0, L2) | https://auroradomains.dev/
 | Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
+| Azero Domains | .azero | Aleph Zero (PoS, L1) | https://azero.domains/
+| Based Names | +name .bitcoin .bit | Bitcoin (PoW, L1) | 
 | Beb Domains | .beb | Ethereum (PoS, L1) | https://beb.domains/
 | Bit Name Service | .bit | Ethereum (PoS, L1) Tron (PoS, L1) BNB Chain (PoS, L1) Polygon (PoS, L2) | https://www.did.id/
 | Bittorrent Domains | .btt | Tron (PoS, L1) | https://bittorrent.domains/
@@ -67,6 +69,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Interchain Name Service | .cosmos .osmo .juno .umee | Cosmos IBC (PoS, L1) | https://www.icns.xyz/
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
 | Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
+| Kadena Names | .kda | Chainweb (Sharded POW, L1) | https://www.kadenanames.com/ 
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | KlimaDAO Name Service | .klima | Polygon (PoS, L2) | http://www.kns.earth/
 | Layer2DAO Names | .l2 | Optimism (PoS-Rollup, L2) | https://punk.domains/#/partners/l2dao
@@ -110,6 +113,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | W3 Name Service | .web3 | Ethereum (PoS, L1) | https://domains.w3.one/
 | XDC Domains | .xdc | XDC Network (XDPoS, L1) | https://xdcdomains.xyz/
 | xNames | .x | Elrond (PoS, L1) | https://xnames.org/
+| Your Canto Name | .canto | Canto Network (Cosmos SDK-PoS, L1) | https://www.yourcanto.name/
 
 ## Subdomain Registrars
 | Name Service | SLD + TLD | Data Structure | Website | Notes |
@@ -123,8 +127,9 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | --- | --- | --- | --- | --- |
 | ADA Handle | $name | Cardano (PoS, L1) | https://adahandle.com/
 | Dash Usernames | name | Dash Protocol (Bitcoin Fork) | https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity
+| Fetcch Identities | name@provider (i.e. satyam@metamask) | Fetcch Payment Connectivity Network | https://docs.fetcch.xyz/fpcn/concepts/identities
 | FIO Domain | @name | FIO Protocol | https://dashboard.fioprotocol.io/
-| Lightning Address | name@vendor.suffix (i.e alice@bitrefill.me) | Lightning Network (Bitcoin, L2) | https://lightningaddress.com/
+| Lightning Address | name@provider.suffix (i.e alice@bitrefill.me) | Lightning Network (Bitcoin, L2) | https://lightningaddress.com/
 | Nano Usernames | @name | Nano Network | https://nano.to/
 | W3DNA | name | BNB Chain (PoS, L1) Polygon (PoS, L2) Ethereum (PoS, L1) | https://w3dna.net/
 
