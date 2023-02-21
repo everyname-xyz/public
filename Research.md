@@ -62,6 +62,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Farcaster Protocol | .fn (social)
 | Flare Domains | .flr | Flare (PoS, L1) | https://flr.domains
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
+| Hash Name Service | .hh | Hedera Hashgraph (L0/L1, PoS) | https://hns.domains/
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
 | HashKey | .key | PlatON (PPoS, N/A) | https://www.hashkey.id/
 | IC Naming | .ic | Internet Computer (PoUW, L1) | https://www.icnaming.com/
