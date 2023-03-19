@@ -21,7 +21,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | --- | --- | --- | --- |
 | Decentraweb | Ethereum (PoS, L1) | https://decentraweb.org/
 | EXIP Domains | BNB Chain (PoS, L1) Ethereum (PoS, L1) Stellar (FBA, L1) | https://app.exip.live/ 
-| Freename | Near (PoS 2.0, L2) BNB Chain (PoS, L1) Cronos (Cosmos IBC PoS, L1) Polygon (PoS, L2) | https://freename.io/
+| Freename | | Aurora (PoS, L2) BNB Chain (PoS, L1) Cronos (Cronos PoS, L2) Polygon (PoS, L2) | https://freename.io/
 | Namebase | Handshake | https://www.namebase.io/
 | Pool Infinity Domains | Polygon (PoS, L2) | https://www.pool.com/
 | Punk Domains | Polygon (PoS, L2) Optimism (PoS-Rollup, L2) Flare (PoS, L1) | https://punk.domains
@@ -47,7 +47,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Bonfida Name Service | .sol | Solana (PoS-PoH, L1) | https://naming.bonfida.org/
 | Celo Name Service | .celo | Celo (PoS, L1) | https://celonameservice.netlify.app/
 | Concordium Name Service | .ccd | Concordium (PoS, L1) | https://ccd.domains/
-| Cronos Name Service | .cro | Cosmos IBC (PoS, L1) | https://www.cronos.domains/
+| Cronos Name Service | .cro | Cronos  (PoS, L2) | https://www.cronos.domains/
 | Domain Choice | .dark .apiens .dysto | Ethereum (PoS, L1) | https://www.domainchoice.io/
 | DDNS | .dweb | Ethereum (PoS, L1) | https://ddns.foundation/
 | DeSo Protocol | .deso (social) | DeSo (PoS, L1) | https://signup.deso.com/
@@ -90,7 +90,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
-| Optimism Name Service | .op
+| Optimism Name Service | .op | Optimism (Rollup, L2) | https://opnames.org/
 | Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Protocol.art | .art | Ethereum (PoS, L1) | https://protocol.art/
@@ -99,12 +99,13 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Records Domains | .records | Handshake | https://records.domains/
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb | Flare (PoS, L1) | https://songbird.domains/#/
-| Space ID | .bnb | BNB Chain (PoS, L1) | https://space.id/
+| Space ID | .bnb | BNB Chain (PoS, L1) Arbitrum (Rollup, L2) | https://space.id/
 | Stacks BNS | .stx | Stacks (Bitcoin, L2) | https://stx.name/
 | Stacks BTC.US | .btc | Stacks (Bitcoin, L2) | https://btc.us/
 | Stargaze Names | .stars .cosmos .osmo .juno | Cosmos IBC (PoS, L1) | https://www.stargaze.zone/names
 | Starknet ID | .stark | StarkNet (ZK-Rollup, L2) | https://app.starknet.id/
 | Subsocial/Dotsama Domains | .sub | Polkadot Parachain (NPoS, L1) | https://polkaverse.com/dd
+| SUI Name Service (Official) | .sui | Sui (PoS, L1) | https://sns.domains/
 | SUI Names | .sui | Sui (PoS, L1) | https://sui-names.com/
 | SuiNS | .sui | Sui (PoS, L1) | https://suins.io/
 | Talent Protocol | .tal
