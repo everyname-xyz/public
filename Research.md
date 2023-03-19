@@ -32,7 +32,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Algorand Name Service | .algo | Algorand (PPoS, L1) | https://algonameservice.com/
 | Anyside Name Service | .any | Ethereum (PoS, L1) Solana (PoS-PoH, L1) Polygon (PoS, L2) | https://anyside.com/
 | Aptos Names | .apt | Aptos (PoS-BFT, L1) | https://www.aptosnames.com/
-| Arb ID | .arb | Arbitrum (Rollup, L2). | https://arb.id/
+| Arb ID | .arb | Arbitrum (Rollup, L2) | https://arb.id/
 | Arweave Name Service | .ar | Arweave (PoA, L1) | https://www.ans.gg/
 | Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
 | Aurora Name Service | .aurora | Near (PoS 2.0, L2) | https://auroradomains.dev/
@@ -73,13 +73,13 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
-| Optimism Name Service | .op
+| Optimism Name Service | .op | Optimism (Rollup, L2) | https://opnames.org/
 | Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Quik Domains | Multiple TLDs | Ethereum (PoS, L1) | https://quik.com/
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb | Flare (PoS, L1) | https://songbird.domains/#/
-| Space ID | .bnb | BNB Chain (PoS, L1) | https://space.id/
+| Space ID | .bnb | BNB Chain (PoS, L1) Arbitrum (Rollup, L2) | https://space.id/
 | Stacks BNS | .stx | Stacks (Bitcoin, L2) | https://stx.name/
 | Stacks BTC.US | .btc | Stacks (Bitcoin, L2) | https://btc.us/
 | Stargaze Names | .stars .cosmos .osmo .juno | Cosmos IBC (PoS, L1) | https://www.stargaze.zone/names
