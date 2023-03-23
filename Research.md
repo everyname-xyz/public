@@ -21,7 +21,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | --- | --- | --- | --- |
 | Decentraweb | Ethereum (PoS, L1) | https://decentraweb.org/
 | EXIP Domains | BNB Chain (PoS, L1) Ethereum (PoS, L1) Stellar (FBA, L1) | https://app.exip.live/ 
-| Freename | | Aurora (PoS, L2) BNB Chain (PoS, L1) Cronos (Cronos PoS, L2) Polygon (PoS, L2) | https://freename.io/
+| Freename | Aurora (PoS, L2) BNB Chain (PoS, L1) Cronos (Cronos PoS, L2) Polygon (PoS, L2) | https://freename.io/
 | Namebase | Handshake | https://www.namebase.io/
 | Pool Infinity Domains | Polygon (PoS, L2) | https://www.pool.com/
 | Punk Domains | Polygon (PoS, L2) Optimism (PoS-Rollup, L2) Flare (PoS, L1) | https://punk.domains
