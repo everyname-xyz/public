@@ -33,10 +33,11 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | ABC Domains | .abc | Solana (PoS, L1) | https://abc.onsol.io/
 | Algorand Name Service | .algo | Algorand (PPoS, L1) | https://algonameservice.com/
 | Anyside Name Service | .any | Ethereum (PoS, L1) Solana (PoS-PoH, L1) Polygon (PoS, L2) | https://anyside.com/
+| APE Domains | .ape | Butterfly Protocol (n/a) | https://ape.cloud/
 | Aptos Names | .apt | Aptos (PoS-BFT, L1) | https://www.aptosnames.com/
 | Arb ID | .arb | Arbitrum (Rollup, L2) | https://arb.id/
 | Arweave Name Service | .ar | Arweave (PoA, L1) | https://www.ans.gg/
-| Astr Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
+| Astar Domains | .astr | Polkadot Parachain (NPoS, L1) | https://astr.domains/
 | Aurora Name Service | .aurora | Near (PoS 2.0, L2) | https://auroradomains.dev/
 | Avvy Domains | .avax | Avalanche (PoS, L1) | https://avvy.domains/
 | Azero Domains | .azero | Aleph Zero (PoS, L1) | https://azero.domains/
@@ -90,12 +91,14 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
+| OKC Domains | .okc | Cosmos IBC (PoS, L1) | https://okc.domains/
 | Optimism Name Service | .op | Optimism (Rollup, L2) | https://opnames.org/
 | Polakdot Name Service | .dot | Moonbeam Polkadot Parachain (PoS, L1) | https://pns.link/
 | Polygon Name Service | .pol | Polygon (PoS, L2) | https://pol.domains/
 | Protocol.art | .art | Ethereum (PoS, L1) | https://protocol.art/
 | Pulse Domains | .pls | PulseChain (PoS, L1) | https://pulse.domains/
 | Quik Domains | Multiple TLDs | Ethereum (PoS, L1) | https://quik.com/
+| Radix Name Service | .xrd | Radix (DPoS, L1) | https://xrd.domains/ 
 | Records Domains | .records | Handshake | https://records.domains/
 | RIF Name Service | .rsk | Rootstock (Bitcoin Sidechain) | https://www.rifos.org/nameservice/index
 | Songbird Domains | .sgb | Flare (PoS, L1) | https://songbird.domains/#/
@@ -107,19 +110,22 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Subsocial/Dotsama Domains | .sub | Polkadot Parachain (NPoS, L1) | https://polkaverse.com/dd
 | SUI Name Service (Official) | .sui | Sui (PoS, L1) | https://sns.domains/
 | SUI Names | .sui | Sui (PoS, L1) | https://sui-names.com/
-| SuiNS | .sui | Sui (PoS, L1) | https://suins.io/
-| Talent Protocol | .tal
+| SuiNS | .sui | Sui (PoS, L1) - Devnet | https://suins.io/
+| Talent Protocol | .tal | Celo (PoS, L1) Polygon (PoS, L2) | https://www.talentprotocol.com/
 | Tezos Domains | .tez | Tezos (PoS, L1) | https://tezos.domains/en
 | Telegram Names | .t.me (social) | Open Network (PoS, L1) | https://fragment.com/
 | Tron Domains | .trx | Tron (DPoS, L1) | https://www.trx.domains/
 | Tron Name Service | .trx | Tron (DPoS, L1) | https://tns.joyso.io/
-| Unstoppable Domains + Cloudname | Multiple TLDs | Offchain + Polygon (PoS, L2) | https://unstoppabledomains.com/
+| Unstoppable Domains + [Cloudname](https://cloudname.com/) | Multiple TLDs | Offchain + Polygon (PoS, L2) | https://unstoppabledomains.com/
 | Velas Domains | .vlx | Velas Blockchain (PoS, L1) | https://velasdomains.com/
+| Waves Domains | .waves | Waves (PoS, L1) | https://waves.domains/
 | WAX Name Service | .wax | Wax Network (DPoS, L1) | https://waxnameservice.io/
 | W3 Name Service | .web3 | Ethereum (PoS, L1) | https://domains.w3.one/
 | XDC Domains | .xdc | XDC Network (XDPoS, L1) | https://xdcdomains.xyz/
 | xNames | .x | Elrond (PoS, L1) | https://xnames.org/
+| XRP Name Service | .xrp | Ripple (Consensus, L1) | https://app.xrpns.com/
 | Your Canto Name | .canto | Canto Network (Cosmos SDK-PoS, L1) | https://www.yourcanto.name/
+| zkSync Name Service | .zk | zkSync Era (PoS-zkRollup, L2) | https://zkns.domains/
 
 ## Subdomain Registrars
 | Name Service | SLD + TLD | Data Structure | Website | Notes |
@@ -139,6 +145,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Lightning Address | name@provider.suffix (i.e alice@bitrefill.me) | Lightning Network (Bitcoin, L2) | https://lightningaddress.com/
 | Nano Usernames | @name | Nano Network | https://nano.to/
 | Superlink | firstname.lastname | Nostr Protocol | https://superlink.me/
+| Universal Cloud | @name#numbers | Lukso (DPoS, L1) | https://universalprofile.cloud
 | W3DNA | name | BNB Chain (PoS, L1) Polygon (PoS, L2) Ethereum (PoS, L1) | https://w3dna.net/
 
 
