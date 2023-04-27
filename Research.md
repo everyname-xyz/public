@@ -65,6 +65,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Fantom Domains | .ftm | Fantom (DPoS, L1) | https://www.fantomdomains.io/
 | Farcaster Protocol | .fn (social)
 | Filecoin Name Service | .fil | Filecoin (PoRep PoSt, L0) | https://fns.space/
+| Find Name Service | .find | Flow (PoS, L1) | https://find.xyz/
 | Flare Domains | .flr | Flare (PoS, L1) | https://flr.domains
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
 | Hash Name Service | .hh | Hedera Hashgraph (L0/L1, PoS) | https://hns.domains/
@@ -77,6 +78,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
 | Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
 | Kadena Names | .kda | Chainweb (Sharded POW, L1) | https://www.kadenanames.com/ 
+| Kap Domains | .koin | Koinos (PoW-Modular), L1 | https://kap.domains/
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | KlimaDAO Name Service | .klima | Polygon (PoS, L2) | http://www.kns.earth/
 | Kred Domains | .kred | Ethereum (PoS, L1) | https://www.domains.kred/
