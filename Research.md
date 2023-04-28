@@ -91,6 +91,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
+| NFT Registry | .nftr | Ethereum (PoS, L1) | https://www.nftr.name/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
 | OKC Domains | .okc | Cosmos IBC (PoS, L1) | https://okc.domains/
