@@ -68,6 +68,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Find Name Service | .find | Flow (PoS, L1) | https://find.xyz/
 | Flare Domains | .flr | Flare (PoS, L1) | https://flr.domains
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
+| Hashgraph Name | .hbar | Hedera Hashgraph (L0/L1, PoS) | https://www.hashgraph.name/
 | Hash Name Service | .hh | Hedera Hashgraph (L0/L1, PoS) | https://hns.domains/
 | HMN Domains | .hmn | Butterfly Protocol (n/a) | https://www.hmn.domains/
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
