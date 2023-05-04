@@ -65,8 +65,10 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | Fantom Domains | .ftm | Fantom (DPoS, L1) | https://www.fantomdomains.io/
 | Farcaster Protocol | .fn (social)
 | Filecoin Name Service | .fil | Filecoin (PoRep PoSt, L0) | https://fns.space/
+| Find Name Service | .find | Flow (PoS, L1) | https://find.xyz/
 | Flare Domains | .flr | Flare (PoS, L1) | https://flr.domains
 | Flowns | .fn | Flow (PoS, L1) | https://www.flowns.org/
+| Hashgraph Name | .hbar | Hedera Hashgraph (L0/L1, PoS) | https://www.hashgraph.name/
 | Hash Name Service | .hh | Hedera Hashgraph (L0/L1, PoS) | https://hns.domains/
 | HMN Domains | .hmn | Butterfly Protocol (n/a) | https://www.hmn.domains/
 | HNS Domains | .one | Harmony (PoS, L1) | https://hnsdomains.one/
@@ -77,6 +79,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | JazDID | .bab | BNB Chain (PoS, L1) | https://www.jazdid.com/
 | Kabuto Name Service | .hh .ℏ | Hedera Hashgraph (L0/L1, PoS) | https://ns.kabuto.sh/
 | Kadena Names | .kda | Chainweb (Sharded POW, L1) | https://www.kadenanames.com/ 
+| Kap Domains | .koin | Koinos (PoW-Modular), L1 | https://kap.domains/
 | Klaytn Name Service | .klay | Klaytn (PoS-PoW, L1) | https://klaytn.domains
 | KlimaDAO Name Service | .klima | Polygon (PoS, L2) | http://www.kns.earth/
 | Kred Domains | .kred | Ethereum (PoS, L1) | https://www.domains.kred/
@@ -89,6 +92,7 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 | NamesDAO | .xch | Chia (PoST, L1) | https://namesdao.org/
 | Near Names | .near | Near (PoS, L1) | https://nearnames.com/
 | NFDomains | .algo | Algorand (PPoS, L1) | https://nf.domains/
+| NFT Registry | .nftr | Ethereum (PoS, L1) | https://www.nftr.name/
 | Nouns Name Service | .⌐◨-◨ | Ethereum (PoS, L1) | https://nns.xyz/
 | Oasis Name Service | .ons | Oasis Emerald (PoS, L1) | https://ons.money/
 | OKC Domains | .okc | Cosmos IBC (PoS, L1) | https://okc.domains/
