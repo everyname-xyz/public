@@ -134,10 +134,12 @@ Onchain naming services can be categorized by 4 Types and 3 Data Structures.
 ## Subdomain Registrars
 | Name Service | SLD + TLD | Data Structure | Website | Notes |
 | --- | --- | --- | --- | --- |
-| Coinbase ID | cb.id
+| Coinbase ID | .cb.id
+| Nfty Chat | .nfty.eth
 | Decentraland Subdomains | .dcl.eth
 | Earth Subdomains | .earth.eth
 | Nameth | multiple .eth subdomains
+| Optinames | .ecc.eth
 
 ## Username Registrars
 | Name Service | Format | Data Structure | Website | Notes |
